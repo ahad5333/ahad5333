@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ahad Ullah</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align ="right" alt="coding" width= "400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGV2b2VjZ3hpN3pqZWJvYmVwZTdnbWd6MmRhMGlsaDlpb29pa2J5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align ="left" alt="coding" width= "400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGV2b2VjZ3hpN3pqZWJvYmVwZTdnbWd6MmRhMGlsaDlpb29pa2J5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahad5333" alt="ahad5333" /></a> </p>
