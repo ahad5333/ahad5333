@@ -1,3 +1,4 @@
+![logo](https://github.com/ahad5333/ahad5333/blob/main/Github_Banner.avif)
 <h1 align="center">Hi 👋, I'm Mohammed Ahad Ullah</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align ="left" alt="coding" width= "400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGV2b2VjZ3hpN3pqZWJvYmVwZTdnbWd6MmRhMGlsaDlpb29pa2J5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
